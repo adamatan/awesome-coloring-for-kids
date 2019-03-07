@@ -1,2 +1,2 @@
-# awesome-coloring-for-kids
-Coloring sheets for kids
+# Sites
+* [coloring-book.info](http://www.coloring-book.info/)
